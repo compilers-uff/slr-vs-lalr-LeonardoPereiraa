@@ -1,3 +1,6 @@
+Nome: Leonardo Pereira dos Santos
+Matricula: 116031075
+
 # SLR vs LALR
 
 Trabalho da disciplina Compiladores 2021.1
